@@ -183,4 +183,3 @@ Congratulations, the Pi-hole is finally set up and you can browse the internet w
 - [Pi-hole Docs](https://docs.pi-hole.net/)
 - [DNS Sinkhole Explained](https://en.wikipedia.org/wiki/DNS_sinkhole)
 - [Block Lists](https://firebog.net)
-# LAB-Pi-Hole
