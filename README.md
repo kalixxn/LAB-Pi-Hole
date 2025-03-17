@@ -110,9 +110,8 @@ sudo systemctl start lighttpd
 ```
 <br/>
 After installation, I allowed all the [necessary ports](https://docs.pi-hole.net/main/prerequisites/)  for Pi-hole using UFW because this is the default firewall for ubuntu host of my version.
-```sh
-sudo su
-```
+
+`sudo su` and then:
 
 ```sh
 ufw allow 80/tcp
